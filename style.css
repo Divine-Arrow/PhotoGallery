@@ -1,0 +1,41 @@
+body {
+    padding-top: 80px;
+}
+
+.navbar {
+    background-color: #2C3E50 !important;
+    box-shadow: 0px 4px 8px 2px #2f2f2f3b;
+}
+
+.navbar-brand img {
+    vertical-align: middle;
+    border-style: none;
+    width: 25px;
+    margin-top: -4px;
+    margin-right: 6px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.icons {
+    background: url(images/ico/1.png) no-repeat center;
+    background-size: cover;
+    width: 46px;
+    height: 46px;
+    margin: 8px 0px 0px -60px;
+    position: absolute;
+    display: inline-block;
+}
+
+.jumbotron {
+    background-color: #e2eff3;
+    color: #2C3E50;
+}
+
+.jumbotron h1 {
+    padding-left: 60px;
+    font-size: 46px;
+    font-weight: 400;
+}
