@@ -20,7 +20,7 @@ body {
 }
 
 .icons {
-    background: url(images/ico/1.png) no-repeat center;
+    background: url("assets/images/ico/1.png") no-repeat center;
     background-size: cover;
     width: 46px;
     height: 46px;
